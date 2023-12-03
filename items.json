@@ -30,12 +30,6 @@
         "price": "Бесплатно"
     },
     {
-        "name": "Банки стекоянные",
-        "description": "Отдам бесплатно коробку с пустыми банками с завинчивающимися крышками. В основном по 500 мл. Банки в",
-        "url": "https://www.avito.ru/rostov-na-donu/posuda_i_tovary_dlya_kuhni/banki_stekoyannye_3620341433",
-        "price": "Бесплатно"
-    },
-    {
         "name": "Стаканы граненые СССР",
         "description": "Отдам бесплатно 2 граненных стакана б/у, на одном есть небольшой скол.",
         "url": "https://www.avito.ru/rostov-na-donu/posuda_i_tovary_dlya_kuhni/stakany_granenye_sssr_3500918959",
@@ -72,6 +66,12 @@
         "price": "800 ₽"
     },
     {
+        "name": "Бокалы. Армуды",
+        "description": "Без повреждений. Целые все. Стекло. Цена за 1 штуку. Из них 1 ( отдаю бесплатно при покупке 5 штук) ",
+        "url": "https://www.avito.ru/rostov-na-donu/posuda_i_tovary_dlya_kuhni/bokaly._armudy_2428924526",
+        "price": "50 ₽"
+    },
+    {
         "name": "Банки бесплатно",
         "description": "Банки объемом 300 мл и меньше, отдам.",
         "url": "https://www.avito.ru/rostov-na-donu/posuda_i_tovary_dlya_kuhni/banki_besplatno_3309178340",
@@ -82,6 +82,12 @@
         "description": "Отдам три стакана за шоколадку. Только Ростов или Таганрог. Были в эксплуатации, есть следы.",
         "url": "https://www.avito.ru/rostov-na-donu/posuda_i_tovary_dlya_kuhni/stakany_besplatno_3278833667",
         "price": "Бесплатно"
+    },
+    {
+        "name": "Посуда чешский фарфор Bernadotte. Стиль Охота",
+        "description": "Позиции на фото 3, 9, 14, 15, 20 проданы с услугой Авито- доставка в Московскую обл. Можно отзыв уви",
+        "url": "https://www.avito.ru/rostov-na-donu/posuda_i_tovary_dlya_kuhni/posuda_cheshskiy_farfor_bernadotte._stil_ohota_3232127084",
+        "price": "75 800 ₽"
     },
     {
         "name": "Ложка для мороженого",
@@ -106,12 +112,6 @@
         "description": "Посудка керамика, маленького размера для декорирования. Три полосатые кружечки, две глиняные и вазон",
         "url": "https://www.avito.ru/rostov-na-donu/posuda_i_tovary_dlya_kuhni/posudadlya_dekorirovaniya_3546013072",
         "price": "1 ₽"
-    },
-    {
-        "name": "Очистка воды из скважин. Водоподготовка",
-        "description": "Умягчение воды/система очистки воды. Цель данной системы — умягчение воды. Состав системы очистки во",
-        "url": "https://www.avito.ru/rostov-na-donu/posuda_i_tovary_dlya_kuhni/ochistka_vody_iz_skvazhin._vodopodgotovka_2784425706",
-        "price": "13 160 ₽"
     },
     {
         "name": "Жидкий стиральный порошок 5 литров",
@@ -144,12 +144,6 @@
         "price": "Бесплатно"
     },
     {
-        "name": "Казан чугунный 12 литров",
-        "description": "Казан чугунный 12 литров. Только до пятницы — каждому покупателю — крышка для казана Бесплатно! Быст",
-        "url": "https://www.avito.ru/rostov-na-donu/posuda_i_tovary_dlya_kuhni/kazan_chugunnyy_12_litrov_2335508925",
-        "price": "2 990 ₽"
-    },
-    {
         "name": "Вырубки для пряников, коврик + форма в подарок",
         "description": "Продам за ненадобностью вырубки для пряников или печенья, силиконовый коврик, голубую силиконовую фо",
         "url": "https://www.avito.ru/rostov-na-donu/posuda_i_tovary_dlya_kuhni/vyrubki_dlya_pryanikov_kovrik_forma_v_podarok_3147093540",
@@ -160,12 +154,6 @@
         "description": "Ну наконец то сделала обновление ассортимента) Многие спрашивали в наличии ли подсвечник? Теперь да)",
         "url": "https://www.avito.ru/rostov-na-donu/posuda_i_tovary_dlya_kuhni/podsvechnikmagiyaezoterikataronovyy_3699630143",
         "price": "2 300 ₽"
-    },
-    {
-        "name": "Очистка воды для дачи, коттеджа, дома",
-        "description": "Умягчение воды/система очистки воды. Цель данной системы — умягчение воды. Состав системы очистки во",
-        "url": "https://www.avito.ru/rostov-na-donu/posuda_i_tovary_dlya_kuhni/ochistka_vody_dlya_dachi_kottedzha_doma_2816153384",
-        "price": "13 160 ₽"
     },
     {
         "name": "Скатерть и тарелки",
@@ -180,30 +168,6 @@
         "price": "2 500 ₽"
     },
     {
-        "name": "Очистка воды из скважин. Водоподготовка",
-        "description": "Умягчение воды/система очистки воды. Цель данной системы — умягчение воды. Состав системы очистки во",
-        "url": "https://www.avito.ru/rostov-na-donu/posuda_i_tovary_dlya_kuhni/ochistka_vody_iz_skvazhin._vodopodgotovka_2816075136",
-        "price": "13 160 ₽"
-    },
-    {
-        "name": "Очистка воды для дома/коттеджа/предприятий",
-        "description": "Умягчение воды/система очистки воды. Цель данной системы — умягчение воды. Состав системы очистки во",
-        "url": "https://www.avito.ru/rostov-na-donu/posuda_i_tovary_dlya_kuhni/ochistka_vody_dlya_domakottedzhapredpriyatiy_2816403603",
-        "price": "13 160 ₽"
-    },
-    {
-        "name": "Фильтр для воды/Водоподготовка",
-        "description": "Умягчение воды/система очистки воды. Цель данной системы — умягчение воды. Состав системы очистки во",
-        "url": "https://www.avito.ru/rostov-na-donu/posuda_i_tovary_dlya_kuhni/filtr_dlya_vodyvodopodgotovka_2752514650",
-        "price": "24 999 ₽"
-    },
-    {
-        "name": "Очистка воды из скважин. Водоподготовка",
-        "description": "Умягчение воды/система очистки воды. Цель данной системы — умягчение воды. Состав системы очистки во",
-        "url": "https://www.avito.ru/rostov-na-donu/posuda_i_tovary_dlya_kuhni/ochistka_vody_iz_skvazhin._vodopodgotovka_2816362100",
-        "price": "13 160 ₽"
-    },
-    {
         "name": "Новый кухонный набор",
         "description": "Набор красно-белый абсолютно новый и целый, при переезде повредили коробку и потеряли один прибор, н",
         "url": "https://www.avito.ru/rostov-na-donu/posuda_i_tovary_dlya_kuhni/novyy_kuhonnyy_nabor_2768939330",
@@ -216,18 +180,6 @@
         "price": "Бесплатно"
     },
     {
-        "name": "Бокалы. Армуды",
-        "description": "Без повреждений. Целые все. Стекло. Цена за 1 штуку. Из них 1 ( отдаю бесплатно при покупке 5 штук) ",
-        "url": "https://www.avito.ru/rostov-na-donu/posuda_i_tovary_dlya_kuhni/bokaly._armudy_2428924526",
-        "price": "50 ₽"
-    },
-    {
-        "name": "Казан с крышкой",
-        "description": "Казан с крышкой. До конца недели — каждому покупателю — крышка для казана Бесплатно! Блюда, приготов",
-        "url": "https://www.avito.ru/rostov-na-donu/posuda_i_tovary_dlya_kuhni/kazan_s_kryshkoy_2047349660",
-        "price": "2 490 ₽"
-    },
-    {
         "name": "Посуда и кухонная утварь б/у и новая",
         "description": "Сотейник Ikea 24 см. Пользовались пару раз, состояние как новый. 1500 рублей. Кофейная пара, новый н",
         "url": "https://www.avito.ru/rostov-na-donu/posuda_i_tovary_dlya_kuhni/posuda_i_kuhonnaya_utvar_bu_i_novaya_3577868844",
@@ -238,30 +190,6 @@
         "description": "Хрусталь из СССР. Все новое, не использовалось. Фото 2-бокалы h19, d 7.5. Цена-500 руб за один. Вазы",
         "url": "https://www.avito.ru/rostov-na-donu/posuda_i_tovary_dlya_kuhni/hrustal_vazy_podstavka_dlya_butylki_2401821836",
         "price": "350 ₽"
-    },
-    {
-        "name": "Фильтры для очистки воды",
-        "description": "Умягчение воды/система очистки воды. Цель данной системы — умягчение воды. Состав системы очистки во",
-        "url": "https://www.avito.ru/rostov-na-donu/posuda_i_tovary_dlya_kuhni/filtry_dlya_ochistki_vody_3487894757",
-        "price": "29 974 ₽"
-    },
-    {
-        "name": "Фильтрация воды из скважины/Аэрационная колонна",
-        "description": "Артикул 221нн. Опыт работы более 8 лет. Гарантия на оборудование 1 год. Оплатить можно любым способо",
-        "url": "https://www.avito.ru/rostov-na-donu/posuda_i_tovary_dlya_kuhni/filtratsiya_vody_iz_skvazhinyaeratsionnaya_kolonna_3487874393",
-        "price": "30 760 ₽"
-    },
-    {
-        "name": "Очистка воды из скважин. Водоподготовка",
-        "description": "Артикул 711пр. Профессиональная очистка воды в загородных домах и коттеджах. Очистка воды из скважин",
-        "url": "https://www.avito.ru/rostov-na-donu/posuda_i_tovary_dlya_kuhni/ochistka_vody_iz_skvazhin._vodopodgotovka_3487973610",
-        "price": "24 865 ₽"
-    },
-    {
-        "name": "Система очистки воды для коттеджа дачи",
-        "description": "Умягчение воды/система очистки воды. Цель данной системы — умягчение воды. Состав системы очистки во",
-        "url": "https://www.avito.ru/rostov-na-donu/posuda_i_tovary_dlya_kuhni/sistema_ochistki_vody_dlya_kottedzha_dachi_3488551208",
-        "price": "26 437 ₽"
     },
     {
         "name": "Магниты на холодильник",
@@ -288,15 +216,285 @@
         "price": "Бесплатно"
     },
     {
-        "name": "Система очистки воды под ключ с гаранитей 101",
-        "description": "Умягчение воды/система очистки воды. Цель данной системы — умягчение воды. Состав системы очистки во",
-        "url": "https://www.avito.ru/rostov-na-donu/posuda_i_tovary_dlya_kuhni/sistema_ochistki_vody_pod_klyuch_s_garanitey_101_2784697447",
-        "price": "13 160 ₽"
+        "name": "Коробки из-под яиц 25 шт",
+        "description": "Отдам бесплатно коробки из-под яиц. Бумага и вспененный пластик. Чуть больше 20 шт. Забирать в район",
+        "url": "https://www.avito.ru/kursk/posuda_i_tovary_dlya_kuhni/korobki_iz-pod_yaits_25_sht_3738614024",
+        "price": "Бесплатно"
     },
     {
-        "name": "Система очистки воды для коттеджа дачи",
-        "description": "Умягчение воды/система очистки воды. Цель данной системы — умягчение воды. Состав системы очистки во",
-        "url": "https://www.avito.ru/rostov-na-donu/posuda_i_tovary_dlya_kuhni/sistema_ochistki_vody_dlya_kottedzha_dachi_2784460675",
-        "price": "13 160 ₽"
+        "name": "Банка стеклянная бесплатно",
+        "description": "Отдам.",
+        "url": "https://www.avito.ru/krasnodar/posuda_i_tovary_dlya_kuhni/banka_steklyannaya_besplatno_3598981588",
+        "price": "Бесплатно"
+    },
+    {
+        "name": "Контейнеры для яиц отдам бесплатно",
+        "description": "Контейнеры для упаковки, хранения и транспортировки куриных яиц пластиковые в количестве 100 шт отда",
+        "url": "https://www.avito.ru/sochi/posuda_i_tovary_dlya_kuhni/konteynery_dlya_yaits_otdam_besplatno_3578374829",
+        "price": "Цена не указана"
+    },
+    {
+        "name": "Банка 3 литра и другие",
+        "description": "Внимание Акция. Отдаем Бесплатно посуду мебель шторы и прочее Покупателям Нашей Гостинки Смотрите В ",
+        "url": "https://www.avito.ru/taganrog/posuda_i_tovary_dlya_kuhni/banka_3_litra_i_drugie_3213021196",
+        "price": "Бесплатно"
+    },
+    {
+        "name": "Футляр для очков, лавровый лист и баночки",
+        "description": "Отдам бесплатно футляр для очков, пакет лаврового листа и баночки с закручивающимися крышками.",
+        "url": "https://www.avito.ru/taganrog/posuda_i_tovary_dlya_kuhni/futlyar_dlya_ochkov_lavrovyy_list_i_banochki_3505130992",
+        "price": "Бесплатно"
+    },
+    {
+        "name": "Набор столовой посуды винтаж",
+        "description": "Китайский фарфор, винтажный. Плоские тарелки по 200р. Большая салатница 500р. Средние салатники ( 2 ",
+        "url": "https://www.avito.ru/krasnodar/posuda_i_tovary_dlya_kuhni/nabor_stolovoy_posudy_vintazh_2391007514?slocation=652000",
+        "price": "1 200 ₽"
+    },
+    {
+        "name": "Пиала СССР",
+        "description": "Бесплатно отдам пиалу — салатник СССР. Имеется маленький скол, но его почти не видно из-за рисунка.",
+        "url": "https://www.avito.ru/stavropol/posuda_i_tovary_dlya_kuhni/piala_sssr_2916543788",
+        "price": "Цена не указана"
+    },
+    {
+        "name": "Баночка детского питания",
+        "description": "Отдам бесплатно баночки от детского питания!",
+        "url": "https://www.avito.ru/pavlovskaya/posuda_i_tovary_dlya_kuhni/banochka_detskogo_pitaniya_3144247462",
+        "price": "Бесплатно"
+    },
+    {
+        "name": "Ступка с пестиком",
+        "description": "Отдам бесплатно ступку с пестиком, использовали пару раз. Без сколов, трещин. Советов 60.",
+        "url": "https://www.avito.ru/novorossiysk/posuda_i_tovary_dlya_kuhni/stupka_s_pestikom_3574863885",
+        "price": "Бесплатно"
+    },
+    {
+        "name": "Форма для выпечки",
+        "description": "Отдам бесплатно форму для выпечки, диаметр 26 см. Механизм застежки кольца работает. В профиле еще н",
+        "url": "https://www.avito.ru/novorossiysk/posuda_i_tovary_dlya_kuhni/forma_dlya_vypechki_3574749532",
+        "price": "Бесплатно"
+    },
+    {
+        "name": "Кофейные пары",
+        "description": "Отдам бесплатно.",
+        "url": "https://www.avito.ru/astrahan/posuda_i_tovary_dlya_kuhni/kofeynye_pary_3575047445",
+        "price": "Бесплатно"
+    },
+    {
+        "name": "Бесплатно.Отдамдаром стеклянбанки из под кофе",
+        "description": "Отдам даром чистые стеклянные банки из под кофе. Много. Тзр.",
+        "url": "https://www.avito.ru/volgograd/posuda_i_tovary_dlya_kuhni/besplatno.otdamdarom_steklyanbanki_iz_pod_kofe_2589649518",
+        "price": "Цена не указана"
+    },
+    {
+        "name": "Чайный сервиз вербилки неполный",
+        "description": "Очень редкий чайный сервиз вербилки. Неполный, не хватает 3-х чашек. Вернее, есть еще 2 чашки, но он",
+        "url": "https://www.avito.ru/simferopol/posuda_i_tovary_dlya_kuhni/chaynyy_serviz_verbilki_nepolnyy_2760531352?slocation=652000",
+        "price": "1 600 ₽"
+    },
+    {
+        "name": "Отдам пластиковые кеги",
+        "description": "Отдам бесплатно пластиковые кеги.",
+        "url": "https://www.avito.ru/saratov/posuda_i_tovary_dlya_kuhni/otdam_plastikovye_kegi_3504121184",
+        "price": "Бесплатно"
+    },
+    {
+        "name": "Рюмки на ножке хрусталь",
+        "description": "Рюмки хрустальные на ножке в количестве 4 штук. В отличном состоянии, без сколов, красивые. На пятой",
+        "url": "https://www.avito.ru/saratov/posuda_i_tovary_dlya_kuhni/ryumki_na_nozhke_hrustal_3686178362?slocation=652000",
+        "price": "430 ₽"
+    },
+    {
+        "name": "Дозатор",
+        "description": "Отдам бесплатно. Не работает, может кто-то сможет отремонтировать или на зап части. Освежитель возду",
+        "url": "https://www.avito.ru/novorossiysk/posuda_i_tovary_dlya_kuhni/dozator_3574820222",
+        "price": "Бесплатно"
+    },
+    {
+        "name": "Тарелки СССР",
+        "description": "Тарелки Коростень, Барановка, Довбыш, диаметр 17,5-18 см, по 50 руб за штуку. Фото 3,4 есть небольши",
+        "url": "https://www.avito.ru/sevastopol/posuda_i_tovary_dlya_kuhni/tarelki_sssr_3003685428?slocation=652000",
+        "price": "50 ₽"
+    },
+    {
+        "name": "Банки 0.5 л",
+        "description": "Банки 0.5 л. Отдам бесплатно. Где-то 15-20 шт.",
+        "url": "https://www.avito.ru/simferopol/posuda_i_tovary_dlya_kuhni/banki_0.5_l_3737892797",
+        "price": "Бесплатно"
+    },
+    {
+        "name": "Банка стеклянная",
+        "description": "Банки стеклянные(разные по объёму), 30-40 штук. Отдам бесплатно. Самовывоз.",
+        "url": "https://www.avito.ru/krasnodar/posuda_i_tovary_dlya_kuhni/banka_steklyannaya_2370320637",
+        "price": "Цена не указана"
+    },
+    {
+        "name": "Чайный сервиз ссср.Барановка",
+        "description": "Чайный сервиз, Барановка, СССР, винтаж. Сервантное хранение. 9 чашек, 5 блюдцев, сахарница. 5500 руб",
+        "url": "https://www.avito.ru/kursk/posuda_i_tovary_dlya_kuhni/chaynyy_serviz_sssr.baranovka_3426567169?slocation=652000",
+        "price": "5 500 ₽"
+    },
+    {
+        "name": "Отдам бесплатно банки",
+        "description": "Самовывоз.",
+        "url": "https://www.avito.ru/armyansk/posuda_i_tovary_dlya_kuhni/otdam_besplatno_banki_3304141652",
+        "price": "Цена не указана"
+    },
+    {
+        "name": "Отдам бесплатно",
+        "description": "Пластиковые кеги б/у из под пива 30 л. Кеги находятся под давлением, самостоятельно стравливается пр",
+        "url": "https://www.avito.ru/voronezh/posuda_i_tovary_dlya_kuhni/otdam_besplatno_2036331956",
+        "price": "Бесплатно"
+    },
+    {
+        "name": "Скатерть кругла, 170см, белая, бу",
+        "description": "Белая круглая скатерть 170см. С желтым пятном в центре, отдам бесплатно, если возьмете прямоугольную",
+        "url": "https://www.avito.ru/krasnodar/posuda_i_tovary_dlya_kuhni/skatert_krugla_170sm_belaya_bu_3481274157?slocation=652000",
+        "price": "390 ₽"
+    },
+    {
+        "name": "Банки стеклянные бесплатно",
+        "description": "Стеклянные банки для консервирования, чистые. Размеры разные, есть и большие и маленькие, с крышками",
+        "url": "https://www.avito.ru/gvardeyskoe/posuda_i_tovary_dlya_kuhni/banki_steklyannye_besplatno_2434434631",
+        "price": "1 ₽"
+    },
+    {
+        "name": "Салатники керамические, набор 7 штук",
+        "description": "Набор керамических салатников: 1 большой и 6 маленьких. Отдаю совершенно бесплатно. Б/у, целые, без ",
+        "url": "https://www.avito.ru/sochi/posuda_i_tovary_dlya_kuhni/salatniki_keramicheskie_nabor_7_shtuk_3582168277",
+        "price": "Бесплатно"
+    },
+    {
+        "name": "Кружка (бесплатно)",
+        "description": "Отдам бесплатно. Принт качественный, яркий, красочный, рисунок четкий, но внутри появилась «паутинка",
+        "url": "https://www.avito.ru/krasnodar/posuda_i_tovary_dlya_kuhni/kruzhka_besplatno_3240143629",
+        "price": "Цена не указана"
+    },
+    {
+        "name": "Кружка и ложка из Питергофа",
+        "description": "Отдадим бесплатно при приобретении любого товара из нашего каталога, или 500 рублей.",
+        "url": "https://www.avito.ru/tambov/posuda_i_tovary_dlya_kuhni/kruzhka_i_lozhka_iz_pitergofa_3478107583",
+        "price": "Бесплатно"
+    },
+    {
+        "name": "Баночка из под детского питания",
+        "description": "Бесплатно отдам несколько пакетов стеклянных баночек из под детского питания. Примерно 400-500 шт. О",
+        "url": "https://www.avito.ru/mozdok/posuda_i_tovary_dlya_kuhni/banochka_iz_pod_detskogo_pitaniya_3569102036",
+        "price": "Бесплатно"
+    },
+    {
+        "name": "Банки из под детской смеси бесплатно",
+        "description": "Отдам банки из под детской смеси, объемом 400 и 800 гр. Может кому-то пригодятся для хранения мелоче",
+        "url": "https://www.avito.ru/voronezh/posuda_i_tovary_dlya_kuhni/banki_iz_pod_detskoy_smesi_besplatno_3755676378",
+        "price": "Бесплатно"
+    },
+    {
+        "name": "Бесплатно банки стеклянные бу",
+        "description": "Банки стеклянные бу, винтовые и под закатку, 30 штук. Отдам за шоколадку.",
+        "url": "https://www.avito.ru/novorossiysk/posuda_i_tovary_dlya_kuhni/besplatno_banki_steklyannye_bu_3636207357",
+        "price": "Бесплатно"
+    },
+    {
+        "name": "Посуда",
+        "description": "Отдам бесплатно.",
+        "url": "https://www.avito.ru/anapskaya/posuda_i_tovary_dlya_kuhni/posuda_3551820054",
+        "price": "Бесплатно"
+    },
+    {
+        "name": "Банки из-под детского питания",
+        "description": "Отдам бесплатно два ящика маленьких баночек из-под детского питания. Самовывоз из хутора Заря. Звони",
+        "url": "https://www.avito.ru/anapskaya/posuda_i_tovary_dlya_kuhni/banki_iz-pod_detskogo_pitaniya_3905684321",
+        "price": "1 ₽"
+    },
+    {
+        "name": "Банки стеклянные с закручивающимися крышками",
+        "description": "Банки 400 мл. Разные и меньше и больше размер. В наличии около 30 шт. Отдам бесплатно.",
+        "url": "https://www.avito.ru/krasnodar/posuda_i_tovary_dlya_kuhni/banki_steklyannye_s_zakruchivayuschimisya_kryshkami_3617084012",
+        "price": "Бесплатно"
+    },
+    {
+        "name": "Банки стеклянные бу бесплатно",
+        "description": "Банки б/у, с крышками, чистые, около 40 штук. Отдам за шоколадку)).",
+        "url": "https://www.avito.ru/novorossiysk/posuda_i_tovary_dlya_kuhni/banki_steklyannye_bu_besplatno_3636184957",
+        "price": "Бесплатно"
+    },
+    {
+        "name": "Емкость пластиковая 30 л",
+        "description": "Отдам бесплатно Ёмкости из под напитков (к. Ег и) 30 литров, в наличии около 300 шт. Самовывоз.",
+        "url": "https://www.avito.ru/novocherkassk/posuda_i_tovary_dlya_kuhni/emkost_plastikovaya_30_l_3510940035",
+        "price": "1 ₽"
+    },
+    {
+        "name": "Кеги пивные б/у 30л пластиковые",
+        "description": "Кеги пластиковые, пивные 30л. В коробке, отдам бесплатно. В наличии много. Самовывоз.",
+        "url": "https://www.avito.ru/krasnodar/posuda_i_tovary_dlya_kuhni/kegi_pivnye_bu_30l_plastikovye_3387993063",
+        "price": "1 ₽"
+    },
+    {
+        "name": "Банки",
+        "description": "Банки разные, отдам бесплатно. Нахожусь в Грибановке.",
+        "url": "https://www.avito.ru/borisoglebsk/posuda_i_tovary_dlya_kuhni/banki_3632194967",
+        "price": "1 ₽"
+    },
+    {
+        "name": "Ложки от смеси",
+        "description": "Бесплатно! Отдам ложечки от смеси 22 штуки.",
+        "url": "https://www.avito.ru/astrahan/posuda_i_tovary_dlya_kuhni/lozhki_ot_smesi_3642944379",
+        "price": "Бесплатно"
+    },
+    {
+        "name": "Баночки бесплатно",
+        "description": "Отдам бесплатно.",
+        "url": "https://www.avito.ru/voronezh/posuda_i_tovary_dlya_kuhni/banochki_besplatno_3352600915",
+        "price": "Бесплатно"
+    },
+    {
+        "name": "Турка",
+        "description": "Продам турку 700р. Вешалка 700р. И макароны отдам бесплатно.",
+        "url": "https://www.avito.ru/krasnodar/posuda_i_tovary_dlya_kuhni/turka_3435522724?slocation=652000",
+        "price": "700 ₽"
+    },
+    {
+        "name": "Бытовая химия оптом",
+        "description": "Бесплатная доставка 18 декабря до дома бесплатно. Производитель Не Перекупы. Читаем Внимательно. Сам",
+        "url": "https://www.avito.ru/kireevsk/posuda_i_tovary_dlya_kuhni/bytovaya_himiya_optom_3485519304",
+        "price": "850 ₽"
+    },
+    {
+        "name": "Стиральный порошок",
+        "description": "При покупке от 20 шт цена 300 рублей за 3 кг. Бесплатная доставка 18 декабря до дома бесплатно от 12",
+        "url": "https://www.avito.ru/novomoskovsk/posuda_i_tovary_dlya_kuhni/stiralnyy_poroshok_3452811050",
+        "price": "300 ₽"
+    },
+    {
+        "name": "Бутылка для воды",
+        "description": "Отдам бесплатно баклажки из под детской водички, в наличии 5 бутылок по 5 литров и 2 бутылки по 6 ли",
+        "url": "https://www.avito.ru/yalta/posuda_i_tovary_dlya_kuhni/butylka_dlya_vody_3543204389",
+        "price": "Цена не указана"
+    },
+    {
+        "name": "Банки стеклянные бесплатно",
+        "description": "Отдам за вкусняшки детям.",
+        "url": "https://www.avito.ru/astrahan/posuda_i_tovary_dlya_kuhni/banki_steklyannye_besplatno_3391006377?slocation=652000",
+        "price": "100 ₽"
+    },
+    {
+        "name": "Посуда",
+        "description": "Отдам бесплатно тарелки супницы есть сколы!",
+        "url": "https://www.avito.ru/armavir/posuda_i_tovary_dlya_kuhni/posuda_2652587447",
+        "price": "Бесплатно"
+    },
+    {
+        "name": "Баночки от детского питания бесплатно",
+        "description": "Баночки от детского питания. Отдам бесплатно за отзыв 5. Баночки из под детского питания объем 80 мл",
+        "url": "https://www.avito.ru/belgorod/posuda_i_tovary_dlya_kuhni/banochki_ot_detskogo_pitaniya_besplatno_3548013307",
+        "price": "Бесплатно"
+    },
+    {
+        "name": "Все для дома и дачи",
+        "description": "Отдам бесплатно за покупку любой вещи из профиля. Второй вариант: за все 100 рублей.",
+        "url": "https://www.avito.ru/krasnodar/posuda_i_tovary_dlya_kuhni/vse_dlya_doma_i_dachi_3613340011?slocation=652000",
+        "price": "100 ₽"
     }
 ]
