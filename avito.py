@@ -99,28 +99,24 @@ class AvitoBot:
             self.handle_confirmation(update, context)
             return
 
-        if 'query' in context.user_data and context.user_data['query']:
-            # Если есть сохраненный запрос, используем его
-            query = context.user_data['query']
-            context.user_data['query'] = None  # Сбрасываем сохраненный запрос
-        else:
-            # Если нет сохраненного запроса, задаем новый вопрос
-            context.user_data['query'] = text
-            update.message.reply_text(f"Ищу '{text}'...\nМного хочешь, не могу найти ничего подходящего. Может, что-то другое?")
-            return
+        text = update.message.text
+# Используем текущий текст ввода пользователя как запрос для поиска
+        query = text
 
+# Выполняем поиск товаров на Avito
         avito_items = self.avito_parser.search_items(query)
+
         if avito_items:
+            # Если найдены элементы, выводим их
             for item in avito_items:
                 message = f"Название: {item['name']}\nОписание: {item['description']}\nЦена: {item['price']}\nURL: {item['url']}"
                 update.message.reply_text(message)
 
             # После успешного поиска спрашиваем, хочет ли пользователь продолжить
             update.message.reply_text("Хочешь продолжить поиск? (Да/Нет)")
-
-            # Переключаем состояние бота на ожидание ответа пользователя
             context.user_data['waiting_for_confirmation'] = True
         else:
+            # Если элементы не найдены, сообщаем пользователю
             update.message.reply_text("Много хочешь, не могу найти ничего подходящего. Может, что-то другое?")
 
     def handle_confirmation(self, update: Update, context: CallbackContext):
@@ -141,10 +137,10 @@ class AvitoBot:
     def run(self):
         self.updater.start_polling()
         self.updater.idle()
-if __name__ == "__main__":
-    avito_parser = AvitoParse(url='https://www.avito.ru/rostov-na-donu/posuda_i_tovary_dlya_kuhni?cd=1&q=%D0%BE%D1%82%D0%B4%D0%B0%D0%BC+%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE&s=104', count=1, version_main=119)
-    avito_parser.parse()
 
+if __name__ == "__main__":
+    avito_parser = AvitoParse(url='https://www.avito.ru/rostov-na-donu/posuda_i_tovary_dlya_kuhni?cd=1&q=%D0%BE%D1%82%D0%B4%D0%B0%D0%BC+%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE&s=104', count=3, version_main=119)
+    avito_parser.parse()
     bot_token = "6634413708:AAGC1Q_qIE0AKwSKCCqDMcgOOj02IV7ueGg"
     avito_bot = AvitoBot(token=bot_token, avito_parser=avito_parser)
     avito_bot.run()
